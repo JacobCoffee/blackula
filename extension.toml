@@ -1,6 +1,6 @@
 id = "blackula"
 name = "Blackula"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["Jacob Coffee <jacob@z7x.org>"]
 description = "A superdark Dracula theme for Zed"
